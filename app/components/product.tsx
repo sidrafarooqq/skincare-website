@@ -12,7 +12,7 @@ const PremiumProducts = () => {
             <p className="text-gray-600 mb-4">
               It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
             </p>
-            <h2 className="font-bold text-lg mb-2">What's in it?</h2>
+            <h2 className="font-bold text-lg mb-2">What&apos;s in it?</h2>
             <ul className="flex flex-col gap-2 text-gray-600">
               <li>🌿 Aloe Vera</li>
               <li>🍃 Organic</li>

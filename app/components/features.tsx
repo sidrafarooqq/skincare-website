@@ -49,7 +49,7 @@ import { features } from 'process';
         <div className="flex items-center text-blue-900">
           <Image src="/iamgess-pngg.jpg" alt="hydrating cream" width={150} height={150} className="mr-4 rounded-lg" />
           <p> <i> Hydrating cream <br />
-           Quench your skin's thirstwith our intensed hydrating cream. </i></p>
+           Quench your skin&apos;s thirstwith our intensed hydrating cream. </i></p>
         </div>
       </div> 
       </div>
